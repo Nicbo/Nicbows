@@ -19,7 +19,7 @@ public final class StringUtils {
 
     public static List<String> colour(List<String> messages) {
         List<String> translated = new ArrayList<>();
-        for (String str : list) {
+        for (String str : messages) {
             translated.add(colour(str));
         }
         return translated;
