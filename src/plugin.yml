@@ -1,0 +1,6 @@
+main: me.nicbo.nicbows.Nicbows
+name: Nicbows
+version: "1.0.0"
+api-version: "1.16"
+description: Adds unique craftable bows that allow players to shoot special arrows
+author: Nicbo
